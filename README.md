@@ -1,0 +1,1 @@
+This is my current running Marlin Firmware for the MendelMax 3.  My machine was upgraded from a MendelMax 2 and therefore uses single start lead screws.  This is a much newer version of Marlin meaning it has more features and is more reliable.  Compiles perfectly in Arduino 1.8.1
